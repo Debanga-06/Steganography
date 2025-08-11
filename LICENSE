@@ -1,0 +1,66 @@
+MIT License
+
+Copyright (c) 2024 Debanga Guria
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Additional Terms for Educational Use
+
+This software is developed primarily for educational and research purposes in the field of steganography and cryptography. Users are encouraged to:
+
+1. **Study and Learn**: Use this code to understand steganography techniques and implementations
+2. **Academic Research**: Cite this work appropriately in academic papers and research
+3. **Educational Projects**: Incorporate into coursework and educational assignments
+
+## Export Control Notice
+
+This software may be subject to export control laws and regulations. Users are responsible for complying with all applicable laws regarding the export, re-export, and use of this software.
+
+## Disclaimer
+
+The authors and contributors of this software:
+
+- Make no warranties regarding the security or effectiveness of the steganographic techniques implemented
+- Are not responsible for any misuse of the software
+- Recommend thorough security analysis before using in production environments
+- Encourage responsible disclosure of any security vulnerabilities discovered
+
+## Third-Party Libraries
+
+This project uses several third-party libraries, each with their own licenses:
+
+- **OpenCV**: Apache 2.0 License
+- **PyCryptodome**: BSD 2-Clause License  
+- **NumPy**: BSD 3-Clause License
+
+Please refer to the individual library documentation for their specific license terms.
+
+## Contributing
+
+By contributing to this project, you agree that your contributions will be licensed under the same MIT License. See the CONTRIBUTING.md file for details on how to contribute.
+
+## Contact
+
+For questions about licensing or to request permissions beyond the scope of this license, please contact:
+
+**Debanga Guria**  
+Email: [your-email@example.com]  
+GitHub: [@Debanga-06](https://github.com/Debanga-06)
