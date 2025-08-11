@@ -232,9 +232,9 @@ Brainware University
 
 ## 📚 References
 
-- [Steganography: A Survey](https://example.com) - Academic research on steganography techniques
-- [AES Encryption Standards](https://example.com) - NIST documentation on AES
-- [Digital Image Processing](https://example.com) - Comprehensive guide to image manipulation
+- [Steganography: A Survey](https://arxiv.org/pdf/1401.5561) - Academic research on steganography techniques
+- [AES Encryption Standards](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197-upd1.pdf) - NIST documentation on AES
+- [Digital Image Processing](https://cloudinary.com/guides/image-effects/image-manipulation-history-concepts-and-a-complete-guide) - Comprehensive guide to image manipulation
 
 ---
 
