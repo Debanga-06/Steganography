@@ -220,9 +220,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 B.Tech CSE – AI & ML  
 Brainware University  
 
-📧 Contact: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
-🌐 Portfolio: [Your Website]
+📧 Contact: [debanga078@gmail.com]  
+🔗 LinkedIn: [https://www.linkedin.com/in/debanga-guria]  
+🌐 Portfolio: [https://debanga.vercel.app]
 
 ## 🙏 Acknowledgments
 
